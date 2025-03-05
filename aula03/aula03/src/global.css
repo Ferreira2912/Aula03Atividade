@@ -1,0 +1,19 @@
+:root {
+    --background: #121214;
+    --card-bg: #202024;
+    --text-color: #E1E1E6;
+    --link-color: #00B37E;
+  }
+  
+  body {
+    background-color: var(--background);
+    color: var(--text-color);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+  }
+  
+  a {
+    color: var(--link-color);
+    text-decoration: none;
+  }
+  

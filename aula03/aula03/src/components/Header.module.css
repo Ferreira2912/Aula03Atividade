@@ -1,0 +1,10 @@
+.header {
+  background: #202024;
+  padding: 16px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.header img{
+  width: 3rem;
+}
